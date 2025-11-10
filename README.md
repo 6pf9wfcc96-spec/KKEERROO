@@ -26,7 +26,7 @@
       display: block;
       background: white;
       margin: 10px auto;
-      padding: 10px;
+      padding: 12px;
       width: 80%;
       max-width: 400px;
       border-radius: 10px;
@@ -42,7 +42,7 @@
 </head>
 <body>
   <img src="KEROO.jpg" alt="KAREEM KEROO" class="profile-img">
-  <h2>KAREEM KEROO</h2>
+  <h2>KAREEM KEROO<h2>
 
   <a class="link" href="https://wa.me/201102049013">📞 WhatsApp</a>
   <a class="link" href="https://www.tiktok.com/@kareemkerooo?is_from_webapp=1&sender_device=pc">🎵 TikTok \ kareemkerooo</a>
