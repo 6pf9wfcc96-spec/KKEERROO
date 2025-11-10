@@ -11,7 +11,7 @@
       text-align: center;
       padding: 20px;
     }
-    .profile-img {480661220_2333208657055335_6968364877525714785_n.jpg
+    .profile-img <img src="html.png" alt="">
       width: 120px;
       height: 120px;
       border-radius: 50%;
