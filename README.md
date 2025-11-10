@@ -11,7 +11,7 @@
       text-align: center;
       padding: 20px;
     }
-    .profile-img <img src="html.png" alt="">
+    .profile-img {480661220_2333208657055335_6968364877525714785_n.jpg
       width: 120px;
       height: 120px;
       border-radius: 50%;
@@ -50,8 +50,3 @@
   <a class="link" href="https://www.tiktok.com/@kareemkerooo?is_from_webapp=1&sender_device=pc">🎵 TikTok \ kareemkerooo</a>
   <a class="link" href="https://facebook.com/karem.kamel.3998">📘 Facebook \ kareemkerooo</a>
   <a class="link" href="https://www.instagram.com/kareem_kero_o/">📸 Instagram \ kareem_kero_o</a>
-
-
-
-
-<img src="html.png" alt="">
