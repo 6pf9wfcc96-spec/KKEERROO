@@ -26,7 +26,7 @@
       display: block;
       background: white;
       margin: 10px auto;
-      padding: 12px;
+      padding: 10px;
       width: 80%;
       max-width: 400px;
       border-radius: 10px;
