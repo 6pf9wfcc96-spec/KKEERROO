@@ -42,7 +42,7 @@
   </style>
 </head>
 <body>
-  <img>"" alt="KAREEM KEROO" class="profile-img">
+  <img src="KEROO.jpg" alt="KAREEM KEROO" class="profile-img">
   <h2>KAREEM KEROO</h2>
   <p>KAREEM KEROO</p>
 
