@@ -43,7 +43,6 @@
 <body>
   <img src="KEROO.jpg" alt="KAREEM KEROO" class="profile-img">
   <h2>KAREEM KEROO</h2>
-  <p>KAREEM KEROO</p>
 
   <a class="link" href="https://wa.me/201102049013">📞 WhatsApp</a>
   <a class="link" href="https://www.tiktok.com/@kareemkerooo?is_from_webapp=1&sender_device=pc">🎵 TikTok \ kareemkerooo</a>
